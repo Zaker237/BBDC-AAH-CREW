@@ -2,7 +2,7 @@
 
 # TODO
 
-- [x] how to handle NaN values?
+- [ ] how to handle NaN values?
 - [ ] find possible additional features Features
 - [ ] predict Temperature
 - [ ] predict Salinity
